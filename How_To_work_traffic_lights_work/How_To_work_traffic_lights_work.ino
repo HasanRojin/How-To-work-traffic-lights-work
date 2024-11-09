@@ -1,7 +1,7 @@
 
    //How To work traffic lights work//
 
-   int rled=5,yled=17,gled=16;
+   int rled=5,yled=6,gled=7;
 
 void setup() {
     pinMode(rled, OUTPUT);
