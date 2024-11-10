@@ -32,6 +32,11 @@ Welcome to Barcode! In this tutorial, we'll show you how to create a traffic lig
 
 Tage: #robotics #robotics_bd #barcode #diyprojects #arduinoproject #Traffic # TrafficLight #bd
 
+Other videos
+YT: https://youtube.com/shorts/6TibLnNRGL0?feature=share
+TT: https://www.tiktok.com/@barcode741/video/7435511538271800584?is_from_webapp=1&sender_device=pc&web_id=7413787783384679943
+IG: https://www.instagram.com/reel/DCLbDXChI5a/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+FB: https://www.facebook.com/share/r/15aqpDy4oZ/
 
 Whether you're a beginner or an experienced maker, this video will guide you through the process of building a traffic light system with ease. Don't forget to like, comment, and subscribe for more exciting DIY projects and tutorials!
 
