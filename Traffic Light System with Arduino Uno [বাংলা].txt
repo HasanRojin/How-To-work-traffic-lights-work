@@ -1,0 +1,46 @@
+
+Title: Traffic Light System with Arduino Uno [বাংলা]
+
+  Description:
+
+Welcome to Barcode! In this tutorial, we'll show you how to create a traffic light system using an Arduino Uno, a Red LED, a Yellow LED, and a Green LED. 🚦🔧
+
+ Components Needed:
+- Arduino Uno
+- 1 Red LED
+- 1 Yellow LED
+- 1 Green LED
+- 3 Resistors (220Ω)
+- Jumper wires
+- Breadboard (optional)
+
+ Wiring Diagram:
+1. Red LED:
+   - Connect the positive leg (longer leg) of the Red LED to digital pin 5 on the Arduino through a 220Ω resistor.
+   - Connect the negative leg (shorter leg) of the Red LED to the GND pin on the Arduino.
+
+2. Yellow LED:
+   - Connect the positive leg of the Yellow LED to digital pin 6 on the Arduino through a 220Ω resistor.
+   - Connect the negative leg of the Yellow LED to the GND pin on the Arduino.
+
+3. Green LED:
+   - Connect the positive leg of the Green LED to digital pin 7 on the Arduino through a 220Ω resistor.
+   - Connect the negative leg of the Green LED to the GND pin on the Arduino.
+
+ Code: 
+- Github link: https://github.com/HasanRojin/How-To-work-traffic-lights-work
+
+Tage: #robotics #robotics_bd #barcode #diyprojects #arduinoproject #Traffic # TrafficLight #bd
+
+
+Whether you're a beginner or an experienced maker, this video will guide you through the process of building a traffic light system with ease. Don't forget to like, comment, and subscribe for more exciting DIY projects and tutorials!
+
+Source: Conversation with Copilot, 11/10/2024
+(1) Arduino Traffic Light - Arduino Project Hub. https://projecthub.arduino.cc/surya2097/arduino-traffic-light-3d661f.
+(2) Traffic Light using Arduino - A Beginner Project. https://projecthub.arduino.cc/krishna_agarwal/traffic-light-using-arduino-a-beginner-project-35f8c6.
+(3) Arduino - Traffic Light | Arduino Tutorial - Arduino Getting Started. https://arduinogetstarted.com/tutorials/arduino-traffic-light.
+(4) Build Your Own Traffic Light Controller With Arduino Uno R4. https://www.instructables.com/Build-Your-Own-Traffic-Light-Controller-With-Ardui/.
+(5) Arduino Street Traffic Light - Breadboard Edition. https://www.instructables.com/Arduino-Street-Traffic-Light/.
+(6) Arduino Based 3-Way Traffic Light Controller - Circuit Digest. https://circuitdigest.com/microcontroller-projects/arduino-traffic-light-controller-project.
+(7) Traffic Light LED - Arduino Project Hub. https://projecthub.arduino.cc/nolimitcircuit/traffic-light-led-51ed54.
+(8) Arduino Based 3-Way Traffic Light Controller - duino - Use Arduino for .... https://duino4projects.com/arduino-based-3-way-traffic-light-controller/.
